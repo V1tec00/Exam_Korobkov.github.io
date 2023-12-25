@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+form, .header{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+input[type="text"], input[type="password"]{
+    width: 512px;
+    height: 60px;
+    border: 2px black;
+    border-radius: 20px;
+    font-size: 50px;
+    margin: -10px;
+}
+
+input[type="button"]{
+    width: 287px;
+    height: 61px;
+    font-size: 40px;
+    background-color: white;
+    border-radius: 20px;
+    transition: 0.2s ease-in-out;
+}
+
+input[type="button"]:hover{
+    width: 287px;
+    height: 61px;
+    font-size: 40px;
+    background-color: #eec700;
+    box-shadow: 0px 5px 10px 0px black;
+    border-radius: 20px;
+}
+
+body{
+    font-family: Roboto;
+}
+
+body{
+    margin: 0%;
+}
+
+.box {
+    width: 1400px;
+    height: 700px;
+}
+
+.box .rectangle {
+    position: fixed;
+    width: 1400px;
+    height: 700px;
+    top: 190px;
+    left: 260px;
+    background-color: #eec700;
+}
+
+.content{
+    font-size: 30px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}

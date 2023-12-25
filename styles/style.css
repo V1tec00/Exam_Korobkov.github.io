@@ -1,0 +1,648 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.div-wrapper {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.div-wrapper .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 2551px;
+    position: relative;
+}
+
+.div-wrapper .rectangle {
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    top: 0;
+    left: 0;
+    background-color: #eec700;
+}
+
+.div-wrapper .index-RU {
+    position: absolute;
+    width: 390px;
+    height: 80px;
+    top: 10px;
+    left: 10px;
+}
+
+.div-wrapper .text-wrapper {
+    width: 159px;
+    top: 25px;
+    left: 559px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 50px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.div-wrapper .text-wrapper-2 {
+    position: absolute;
+    width: 465px;
+    top: 25px;
+    left: 865px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.div-wrapper .text-wrapper-3 {
+    position: absolute;
+    width: 426px;
+    top: 23px;
+    left: 1477px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.div-wrapper .frame {
+    height: 827px;
+    top: 100px;
+    left: 0;
+    position: absolute;
+    width: 1920px;
+}
+
+.div-wrapper .group {
+    position: absolute;
+    width: 1295px;
+    height: 402px;
+    top: 30px;
+    left: 63px;
+}
+
+.div-wrapper .text-wrapper-4 {
+    width: 144px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .element {
+    width: 1291px;
+    top: 75px;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .img {
+    position: absolute;
+    width: 335px;
+    height: 218px;
+    top: 184px;
+    left: 4px;
+    object-fit: cover;
+}
+
+.div-wrapper .rectangle-2 {
+    position: absolute;
+    width: 500px;
+    height: 218px;
+    top: 184px;
+    left: 419px;
+    object-fit: cover;
+}
+
+.div-wrapper .group-2 {
+    position: absolute;
+    width: 1296px;
+    height: 325px;
+    top: 448px;
+    left: 60px;
+}
+
+.div-wrapper .p {
+    width: 1291px;
+    top: 0;
+    left: 3px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .group-3 {
+    position: absolute;
+    width: 351px;
+    height: 201px;
+    top: 78px;
+    left: 0;
+}
+
+.div-wrapper .text-wrapper-5 {
+    width: 294px;
+    top: 0;
+    left: 30px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .element-2 {
+    position: absolute;
+    width: 349px;
+    height: 172px;
+    top: 29px;
+    left: 0;
+}
+
+.div-wrapper .group-4 {
+    position: absolute;
+    width: 337px;
+    height: 247px;
+    top: 78px;
+    left: 422px;
+}
+
+.div-wrapper .rectangle-3 {
+    position: absolute;
+    width: 335px;
+    height: 218px;
+    top: 29px;
+    left: 0;
+    object-fit: cover;
+}
+
+.div-wrapper .text-wrapper-6 {
+    width: 129px;
+    top: 0;
+    left: 103px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .overlap {
+    position: absolute;
+    width: 1920px;
+    height: 598px;
+    top: 944px;
+    left: 0;
+}
+
+.div-wrapper .frame-2 {
+    height: 523px;
+    top: 0;
+    left: 0;
+    background-color: #eec700;
+    position: absolute;
+    width: 1920px;
+    a{
+        color: black;
+        text-decoration: none;
+    }
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+body{
+    margin: 0%;
+}
+
+.div-wrapper .text-wrapper-7 {
+    width: 368px;
+    top: 29px;
+    left: 622px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    text-align: center;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .text-wrapper-8 {
+    width: 690px;
+    top: 89px;
+    left: 622px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .group-5 {
+    position: absolute;
+    width: 366px;
+    height: 80px;
+    top: 168px;
+    left: 778px;
+}
+
+.div-wrapper .overlap-group-wrapper {
+    position: absolute;
+    width: 365px;
+    height: 47px;
+    top: 33px;
+    left: 1px;
+}
+
+.div-wrapper .overlap-group {
+    position: relative;
+    width: 363px;
+    height: 47px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.div-wrapper .text-wrapper-9 {
+    width: 231px;
+    top: 6px;
+    left: 3px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #d9d9d9;
+    font-size: 30px;
+    text-align: center;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .text-wrapper-10 {
+    width: 236px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 26px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.div-wrapper .group-6 {
+    position: absolute;
+    width: 366px;
+    height: 80px;
+    top: 248px;
+    left: 778px;
+}
+
+.div-wrapper .group-7 {
+    position: absolute;
+    width: 366px;
+    height: 80px;
+    top: 328px;
+    left: 778px;
+}
+
+.div-wrapper .text-wrapper-11 {
+    width: 231px;
+    top: 6px;
+    left: 6px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #d9d9d9;
+    font-size: 30px;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .text-wrapper-12 {
+    width: 255px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 26px;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .overlap-wrapper {
+    position: absolute;
+    width: 172px;
+    height: 50px;
+    top: 440px;
+    left: 875px;
+}
+
+.div-wrapper .overlap-2 {
+    position: relative;
+    width: 170px;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.div-wrapper .text-wrapper-13 {
+    width: 170px;
+    height: 50px;
+    top: -1px;
+    left: -1px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .text-wrapper-14 {
+    width: 489px;
+    top: 522px;
+    left: 661px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .frame-3 {
+    height: 140px;
+    top: 2411px;
+    left: 1px;
+    background-color: #4b4940;
+    position: absolute;
+    width: 1920px;
+}
+
+.div-wrapper .text-wrapper-15 {
+    width: 209px;
+    top: 29px;
+    left: 284px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .text-wrapper-16 {
+    width: 93px;
+    height: 36px;
+    top: 29px;
+    left: 633px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .text-wrapper-17 {
+    width: 246px;
+    height: 36px;
+    top: 29px;
+    left: 866px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .text-wrapper-18 {
+    width: 309px;
+    height: 64px;
+    top: 15px;
+    left: 1592px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .text-wrapper-19 {
+    position: absolute;
+    width: 394px;
+    height: 44px;
+    top: 79px;
+    left: 1507px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .text-wrapper-20 {
+    width: 131px;
+    top: 29px;
+    left: 30px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .text-wrapper-21 {
+    width: 161px;
+    top: 29px;
+    left: 1252px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .overlap-3 {
+    position: absolute;
+    width: 1919px;
+    height: 319px;
+    top: 1543px;
+    left: 1px;
+}
+
+.div-wrapper .group-8 {
+    position: absolute;
+    width: 960px;
+    height: 319px;
+    top: 0;
+    left: 0;
+}
+
+.div-wrapper .text-wrapper-22 {
+    width: 283px;
+    height: 56px;
+    top: -1px;
+    left: 34px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .overlap-4 {
+    position: absolute;
+    width: 899px;
+    height: 256px;
+    top: 63px;
+    left: 3px;
+}
+
+.div-wrapper .overlap-5 {
+    position: absolute;
+    width: 899px;
+    height: 227px;
+    top: 0;
+    left: 0;
+}
+
+.div-wrapper .text-wrapper-23 {
+    width: 627px;
+    height: 215px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .rectangle-4 {
+    position: absolute;
+    width: 324px;
+    height: 216px;
+    top: 11px;
+    left: 575px;
+    object-fit: cover;
+}
+
+.div-wrapper .group-9 {
+    position: absolute;
+    width: 286px;
+    height: 40px;
+    top: 216px;
+    left: 183px;
+}
+
+.div-wrapper .overlap-group-2 {
+    position: relative;
+    width: 284px;
+    height: 40px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.div-wrapper .text-wrapper-24 {
+    width: 284px;
+    height: 40px;
+    top: -1px;
+    left: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.div-wrapper .group-10 {
+    position: absolute;
+    width: 960px;
+    height: 319px;
+    top: 0;
+    left: 959px;
+}
+
+.div-wrapper .overlap-6 {
+    position: absolute;
+    width: 1919px;
+    height: 319px;
+    top: 1913px;
+    left: 1px;
+}
